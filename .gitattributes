@@ -1,0 +1,3 @@
+# Giữ nguyên byte của bản gốc: upstream.json ghi SHA-256 từng file trong original/,
+# nên checkout trên Windows cũng phải ra LF, không được đổi sang CRLF.
+* text=auto eol=lf

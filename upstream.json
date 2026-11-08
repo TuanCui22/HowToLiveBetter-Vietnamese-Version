@@ -1,0 +1,351 @@
+{
+  "upstream": "https://github.com/eternity4719/HowToLiveBetter",
+  "commit": "21ad9068a207fb5f99d7ae60a9ef9a814a45ba20",
+  "upstream_date": "2026-11-06",
+  "records": [
+    {
+      "id": "01",
+      "source": "original/book/01-不要早死.md",
+      "translation": "book/01-tranh-tu-vong-som.md",
+      "source_sha256": "dab75aa82448b1883757da041db0bfb63b3c92e7cf487baf694fb972544eb2aa",
+      "items": 49,
+      "assembled": true
+    },
+    {
+      "id": "02",
+      "source": "original/book/02-不要慢慢死.md",
+      "translation": "book/02-dung-am-tham-bao-mon-suc-khoe.md",
+      "source_sha256": "2e5ed460697e7940e604a326c62aa9261727c456e9d3a0d37e95a1d81d314c06",
+      "items": 47,
+      "assembled": true
+    },
+    {
+      "id": "03",
+      "source": "original/book/03-不要浪费精力.md",
+      "translation": "book/03-dung-lang-phi-nang-luong.md",
+      "source_sha256": "eb1eb27776fad6ef5836c1d06d5649c7fd0f3cbbca58cd60e119559de71a9f12",
+      "items": 27,
+      "assembled": true
+    },
+    {
+      "id": "04",
+      "source": "original/book/04-不要浪费时间.md",
+      "translation": "book/04-dung-lang-phi-thoi-gian.md",
+      "source_sha256": "0ce41e57732cdadef83b5ba19f1ba4fae1c23c9463bec5537fd07bbb3df9c3ab",
+      "items": 18,
+      "assembled": true
+    },
+    {
+      "id": "05",
+      "source": "original/book/05-不要浪费钱.md",
+      "translation": "book/05-dung-lang-phi-tien.md",
+      "source_sha256": "113207155cf8f85ef40b9f865f17843a672a63835d41801acfc9727d16dfbe61",
+      "items": 51,
+      "assembled": true
+    },
+    {
+      "id": "06",
+      "source": "original/book/06-反面清单.md",
+      "translation": "book/06-nhung-viec-tuong-co-loi-ma-khong.md",
+      "source_sha256": "e6334954fcaf3f913f7810b73553e08bb15c77ca804994a366da3ce04646aff1",
+      "items": 35,
+      "assembled": true
+    },
+    {
+      "id": "07",
+      "source": "original/book/07-没钱的时候怎么活.md",
+      "translation": "book/07-song-khi-khong-co-tien.md",
+      "source_sha256": "2de7075caa075f9e07abeb463f59446c4ca8f0d6ccb60c8809eaf571f1c07195",
+      "items": 23,
+      "assembled": true
+    },
+    {
+      "id": "08",
+      "source": "original/book/08-别把自己搭进去.md",
+      "translation": "book/08-bao-ve-ban-than-va-tai-san.md",
+      "source_sha256": "591402af0208e646ff7ab551b653e00861c01f4778f801ac04a5e2b1fb31be23",
+      "items": 46,
+      "assembled": true
+    },
+    {
+      "id": "09",
+      "source": "original/book/09-普通人容易踩的法律红线.md",
+      "translation": "book/09-nhung-ranh-gioi-phap-ly-de-vuong-phai.md",
+      "source_sha256": "7aeb5313df434bc0a612cd17c09f6d5b1d69aa479d3121c5fb07b5970ab56a35",
+      "items": 29,
+      "assembled": true
+    },
+    {
+      "id": "10",
+      "source": "original/book/10-恋爱和结婚划不划算.md",
+      "translation": "book/10-tinh-yeu-va-hon-nhan-co-dang-khong.md",
+      "source_sha256": "25d9c8835145e9a54f53215ac5729a15b9747ecab56c38e513a3f21d1ae5716d",
+      "items": 23,
+      "assembled": true
+    },
+    {
+      "id": "11",
+      "source": "original/book/11-程序员和技术人容易踩的红线.md",
+      "translation": "book/11-ranh-gioi-phap-ly-cho-nguoi-lam-cong-nghe.md",
+      "source_sha256": "508c7f178992c7fe6edef732d09072e9dc151fc8bed91f993806063e91043a0f",
+      "items": 21,
+      "assembled": true
+    },
+    {
+      "id": "12",
+      "source": "original/book/12-创业与做生意.md",
+      "translation": "book/12-khoi-nghiep-va-kinh-doanh.md",
+      "source_sha256": "3352602c7e265c6c4f722f8953a387e1f173ac483539fb58314822f1705252ae",
+      "items": 28,
+      "assembled": true
+    },
+    {
+      "id": "13",
+      "source": "original/book/13-紧急情况.md",
+      "translation": "book/13-tinh-huong-khan-cap.md",
+      "source_sha256": "54d94a685802c6a7f417b548f2d61f70ed68d628bbd875350a385c99985125e1",
+      "items": 49,
+      "assembled": true
+    },
+    {
+      "id": "14",
+      "source": "original/book/14-账号与信息安全.md",
+      "translation": "book/14-an-toan-tai-khoan-va-thong-tin.md",
+      "source_sha256": "3424a8a840d4c95aa1b1158ccc5442c0fd48b54b1e2398cf620929cc81a020bc",
+      "items": 12,
+      "assembled": true
+    },
+    {
+      "id": "15",
+      "source": "original/book/15-租房与买房.md",
+      "translation": "book/15-thue-va-mua-nha.md",
+      "source_sha256": "a4aeb24e87cbf6a658b23e2c7a75463d01b5eb59053d63441cf53dc91b0a08f1",
+      "items": 18,
+      "assembled": true
+    },
+    {
+      "id": "16",
+      "source": "original/book/16-得了慢性病之后怎么活.md",
+      "translation": "book/16-song-voi-benh-man-tinh.md",
+      "source_sha256": "3ccb8d90a9ccf030258be8a2b9bdc8bf9fa19f88f9d01acd3a4b7da102a98472",
+      "items": 14,
+      "assembled": true
+    },
+    {
+      "id": "17",
+      "source": "original/book/17-家里有老人.md",
+      "translation": "book/17-khi-gia-dinh-co-nguoi-cao-tuoi.md",
+      "source_sha256": "27ecc277bfe676d82d697c83f896fa9a42255944ed5a917ace81d26d4fc13257",
+      "items": 13,
+      "assembled": true
+    },
+    {
+      "id": "18",
+      "source": "original/book/18-养孩子划不划算.md",
+      "translation": "book/18-nuoi-con-co-dang-khong.md",
+      "source_sha256": "00c50a53ebc837b02d93d1399fb1ab2cba8704b13ce02cd5029d62c6defbea7f",
+      "items": 7,
+      "assembled": true
+    },
+    {
+      "id": "19",
+      "source": "original/book/19-在职离职和工伤.md",
+      "translation": "book/19-di-lam-nghi-viec-va-tai-nan-lao-dong.md",
+      "source_sha256": "a0c698df02d89fa272af26c60aea22e00e01e431d4cf3329c3add34c661a7fe2",
+      "items": 25,
+      "assembled": true
+    },
+    {
+      "id": "20",
+      "source": "original/book/20-刚出生的孩子怎么带.md",
+      "translation": "book/20-cham-soc-tre-so-sinh.md",
+      "source_sha256": "296d2c8f96595f2721549eaf791e989fbe0ebd7731344e1056b1d6e4da702a0f",
+      "items": 17,
+      "assembled": true
+    },
+    {
+      "id": "21",
+      "source": "original/book/21-出国旅行与境外安全.md",
+      "translation": "book/21-du-lich-va-an-toan-o-nuoc-ngoai.md",
+      "source_sha256": "7326b49cab0e623e30cf74d4e5675020447fd382a16d018d1b286cfa7e5a4369",
+      "items": 13,
+      "assembled": true
+    },
+    {
+      "id": "22",
+      "source": "original/book/22-怎么放松.md",
+      "translation": "book/22-thu-gian-va-giam-cang-thang.md",
+      "source_sha256": "b8bc08ee90411b2ca35cc187a772ccded9c4518f06f31263bee2c9bf131b4dfa",
+      "items": 13,
+      "assembled": true
+    },
+    {
+      "id": "23",
+      "source": "original/book/23-学什么技能划算.md",
+      "translation": "book/23-nen-hoc-ky-nang-nao.md",
+      "source_sha256": "d537293950bb1301b47b95573937b7b8fdc0dae2db90a30db25014d414dbc0ca",
+      "items": 25,
+      "assembled": true
+    },
+    {
+      "id": "24",
+      "source": "original/book/24-看病.md",
+      "translation": "book/24-di-kham-va-chua-benh.md",
+      "source_sha256": "297297bf673c65c761ec13642fb1bae6d01af9943ee8e1d4af2f2e5160765b82",
+      "items": 15,
+      "assembled": true
+    },
+    {
+      "id": "25",
+      "source": "original/book/25-人走了以后要办什么.md",
+      "translation": "book/25-thu-tuc-khi-nguoi-than-qua-doi.md",
+      "source_sha256": "162d5c0d2d1e129c113315b924267bafb76738c11aaee0227c2e3de0275927c3",
+      "items": 12,
+      "assembled": true
+    },
+    {
+      "id": "26",
+      "source": "original/book/26-做一个网站或平台.md",
+      "translation": "book/26-xay-dung-website-va-nen-tang.md",
+      "source_sha256": "2e984668db5e24348230a79db0e026eefae5e29a1b0b82f88a2441767c8bdb21",
+      "items": 13,
+      "assembled": true
+    },
+    {
+      "id": "27",
+      "source": "original/book/27-怀孕和生产.md",
+      "translation": "book/27-mang-thai-va-sinh-con.md",
+      "source_sha256": "7f43af84e2afab01d23fada4db7b8c982885c8a9faaa121d86f4a280da0b49bb",
+      "items": 20,
+      "assembled": true
+    },
+    {
+      "id": "28",
+      "source": "original/book/28-别为了外形把身体搞坏.md",
+      "translation": "book/28-dung-danh-doi-suc-khoe-lay-ngoai-hinh.md",
+      "source_sha256": "c48042789962c73cbe6b09e8863ecd8ba152412b99ca5eadfdf6a9ad417e0e17",
+      "items": 10,
+      "assembled": true
+    },
+    {
+      "id": "29",
+      "source": "original/book/29-遭遇重大打击之后.md",
+      "translation": "book/29-vuot-qua-bien-co-lon.md",
+      "source_sha256": "be5e1104c1e086481ec3e8b3abbb85c52b4170283c34329ce91e2d0f003e8cb8",
+      "items": 14,
+      "assembled": true
+    },
+    {
+      "id": "30",
+      "source": "original/book/30-上学以后的孩子.md",
+      "translation": "book/30-khi-con-den-tuoi-di-hoc.md",
+      "source_sha256": "a3c40ca3364715621780c06b39f853b5a588993bc41948df9c2444ca85f901b5",
+      "items": 21,
+      "assembled": true
+    },
+    {
+      "id": "31",
+      "source": "original/book/31-十八岁之后有哪几条路.md",
+      "translation": "book/31-nhung-nga-duong-sau-tuoi-muoi-tam.md",
+      "source_sha256": "2e4cfcc3ca2bd45504a7a64b55e348990e671022d1d76718a20d362ad26fcec5",
+      "items": 17,
+      "assembled": true
+    },
+    {
+      "id": "32",
+      "source": "original/book/32-出国留学.md",
+      "translation": "book/32-du-hoc.md",
+      "source_sha256": "8992babffb2c7f7d53a623dbce4e8d02c048dcb74be9a358adba537a3cb29555",
+      "items": 12,
+      "assembled": true
+    },
+    {
+      "id": "33",
+      "source": "original/book/33-残疾之后怎么活.md",
+      "translation": "book/33-song-khi-co-khuyet-tat.md",
+      "source_sha256": "4c55b67c18ae7b6508ae283981b31843e73a616b8f6867641faa58d45f988c6c",
+      "items": 21,
+      "assembled": true
+    },
+    {
+      "id": "34",
+      "source": "original/book/34-家里的常备药别吃出事.md",
+      "translation": "book/34-su-dung-thuoc-trong-gia-dinh-an-toan.md",
+      "source_sha256": "a2ae01da751e09c8c1a02a2457e9f55f1504c32dac81df18c93ad2ec9eaff75a",
+      "items": 14,
+      "assembled": true
+    },
+    {
+      "id": "doc01",
+      "source": "original/docs/做平台要办哪些证.md",
+      "translation": "docs/giay-phep-khi-lam-nen-tang.md",
+      "source_sha256": "219d9d4532269b5df38c3c037ff9558bc84942209567fad99b13b1ff69e1de2f",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc02",
+      "source": "original/docs/刚确诊慢性病之后.md",
+      "translation": "docs/khi-vua-duoc-chan-doan-benh-man-tinh.md",
+      "source_sha256": "7c4e883033b4032ef11ac446593d989eb8e3b544d47d4d0941191151d1fac2ba",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc03",
+      "source": "original/docs/孩子出生前后要办的事.md",
+      "translation": "docs/viec-can-lam-truoc-va-sau-khi-con-chao-doi.md",
+      "source_sha256": "0e421bb812e63f86805ece55d229e165c3375507fd1d85de9381036e47e2e110",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc04",
+      "source": "original/docs/家庭应急装备清单.md",
+      "translation": "docs/danh-muc-do-dung-khan-cap-trong-gia-dinh.md",
+      "source_sha256": "dd1760fef5e967ceffd0a988cc789efa91b5c9d2cc7135c6891a5258a0191603",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc05",
+      "source": "original/docs/换工作、换城市之前.md",
+      "translation": "docs/truoc-khi-doi-viec-hoac-chuyen-thanh-pho.md",
+      "source_sha256": "a7bbb05fd55dff021fa1a45ec896858fcd5d153bd49b92922156dff798d5ab0c",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc06",
+      "source": "original/docs/生物钟和夜班.md",
+      "translation": "docs/dong-ho-sinh-hoc-va-ca-dem.md",
+      "source_sha256": "0095a6cfee0a3cbb863245d54eb278341d95be35b63ee1460a5ba3e333cdb7ff",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc07",
+      "source": "original/docs/结婚划不划算.md",
+      "translation": "docs/can-nhac-chuyen-ket-hon.md",
+      "source_sha256": "062137b3415709813df2042c67ae2d16f8c3438f2f7f0ec9e7d5bea5bd7b9cdb",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc08",
+      "source": "original/docs/被裁了之后先做什么.md",
+      "translation": "docs/viec-can-lam-khi-bi-cat-giam.md",
+      "source_sha256": "fc50d80377676b33da9b551ac65193a169b4510b3c07cb922160bbede2db98ac",
+      "items": 0,
+      "assembled": true
+    },
+    {
+      "id": "doc09",
+      "source": "original/docs/遇到陌生人出事该不该停.md",
+      "translation": "docs/co-nen-dung-lai-giup-nguoi-la-gap-nan.md",
+      "source_sha256": "5ac0bac9f2b6fdac80b554921918831341e1f003f753544bc29e1820c372db65",
+      "items": 0,
+      "assembled": true
+    }
+  ]
+}
